@@ -1,0 +1,68 @@
+Elodie : Page Contact
+Karlvin : Page de Service 
+Alexis : A propos et équipe
+Axel : Accueil
+Kylian : Service 
+
+Cahier des charge Groupe
+
+
+Couleur du Site : 
+#23a434 
+#a5cf9f 
+#dcf9d7 
+#84aee1
+
+typographie : NATURAL FOLKLORE DEMO
+
+
+Menu Nav
+Histoire de l’entreprise, valeurs et engagements environnementaux
+
+Section “Notre équipe” : brève présentation de 3 membres fictifs (prénom, fonction, 1 phrase de présentation)
+
+Une photo de groupe ou illustration
+
+L'histoire de l'entreprise :
+ 
+Fondée en 2020 par une équipe de passionnés d’écologie urbaine, GreenCity Solutions est née d’un constat simple : nos villes étouffent, et la nature y a perdu sa place. Dans un monde de plus en plus urbanisé, l’équipe fondatrice a voulu réinventer les espaces urbains en les rendant plus verts, plus vivants, et plus durables.
+
+L’idée a germé dans un petit atelier de banlieue parisienne, où les premiers prototypes de mobilier urbain éco-conçu ont vu le jour. Très vite, la vision s’est élargie : créer non seulement des objets, mais un véritable écosystème de solutions vertes pour reconnecter les citadins à la nature. Jardins partagés, animations participatives, ateliers de sensibilisation au développement durable… GreenCity Solutions est aujourd’hui un acteur engagé dans la transformation écologique des villes françaises.
+
+Nos valeur : 
+
+-Écologie concrète
+	Nous croyons qu’un engagement environnemental doit être ancré dans 	des actions tangibles. Chaque projet que nous menons vise à réduire 	l’impact écologique de l’espace urbain.
+
+-Co-création avec les citoyens
+	Nos solutions sont pensées avec les habitants, pas seulement pour 	eux. Nous favorisons la participation active des citoyens à la 	transformation de leur quartier.
+
+-Innovation responsable
+	
+
+-Éducation et transmission
+	Sensibiliser, éduquer, inspirer : nous mettons un point d’honneur à 	accompagner chaque projet d’ateliers pédagogiques pour petits et 	grands.
+
+Nos engagements environnementaux :
+
+Conception éco-responsable : 
+	tous nos mobiliers urbains sont conçus selon des principes d’éco-	conception, utilisant des matériaux recyclés, recyclables et 	durables.
+
+Favoriser la biodiversité urbaine : 
+	nos jardins partagés et installations végétales sont pensés pour 	accueillir la faune et la flore locales, contribuant ainsi à la 	résilience écologique des villes.
+
+Empreinte carbone réduite :
+	nous privilégions des circuits courts pour la production et la 	logistique, et cherchons constamment à optimiser notre bilan 	carbone.
+
+Sensibilisation active : 
+	nous organisons régulièrement des ateliers, événements et 	formations pour éduquer aux éco-gestes, à la permaculture et aux 	enjeux du climat.
+
+Amélioration continue : 
+	nous mesurons l’impact de nos actions et ajustons en permanence nos 	pratiques pour rester en phase avec les meilleures normes 	environnementales.
+
+faire un trello 
+
+
+
+
+ 
